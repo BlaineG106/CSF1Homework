@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSF1Homework
+namespace FruitLoops.cs
 {
-    class Program
+    class FruitLoops2
     {
         static void Main(string[] args)
         {
