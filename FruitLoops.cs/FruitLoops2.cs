@@ -10,7 +10,15 @@ namespace FruitLoops.cs
     {
         static void Main(string[] args)
         {
+            Console.Title = "Fruit Loops 2";
 
+            string[] fruits = new string[6];
+            fruits[0] = "apple";
+            fruits[1] = "pear";
+            fruits[2] = "mango";
+            fruits[3] = "peach";
+            fruits[4] = "orange";
+            fruits[5] = "grape";
         }
     }
 }
