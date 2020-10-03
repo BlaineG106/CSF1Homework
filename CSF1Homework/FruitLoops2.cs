@@ -25,7 +25,7 @@ namespace FruitLoops.cs
             for (int fruitsList = 0; fruitsList < fruits.Length; fruitsList++)
             {
                 Console.WriteLine(fruits[fruitsList]);
-                for (int periodList = 0; periodList < length; i++)
+                //for (int periodList = 0; periodList < lengthf; i++)
                 {
 
                 }

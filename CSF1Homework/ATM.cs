@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSF1Homework
 {
-    class Program
+    class ATM
     {
         static void Main(string[] args)
         {
